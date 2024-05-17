@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.8b5b1aec.css",
-    "main.js": "./static/js/main.e13ded4a.js",
+    "main.css": "./static/css/main.2adf2451.css",
+    "main.js": "./static/js/main.117f9501.js",
     "static/media/banner-ipad.png": "./static/media/banner-ipad.9a219f65736b00d9d36d.png",
     "static/media/banner-iphone-15.png": "./static/media/banner-iphone-15.75a05c8456e90099c278.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
@@ -12,11 +12,11 @@
     "static/media/arrow-down-disabled.svg": "./static/media/arrow-down-disabled.98c9dd6d98b47f2f1977.svg",
     "index.html": "./index.html",
     "static/media/heart-red.svg": "./static/media/heart-red.31d6cfe0d16ae931b73c.svg",
-    "main.8b5b1aec.css.map": "./static/css/main.8b5b1aec.css.map",
-    "main.e13ded4a.js.map": "./static/js/main.e13ded4a.js.map"
+    "main.2adf2451.css.map": "./static/css/main.2adf2451.css.map",
+    "main.117f9501.js.map": "./static/js/main.117f9501.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b5b1aec.css",
-    "static/js/main.e13ded4a.js"
+    "static/css/main.2adf2451.css",
+    "static/js/main.117f9501.js"
   ]
 }
