@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.ed364c6a.css",
+    "main.css": "./static/css/main.47aaf01d.css",
     "main.js": "./static/js/main.bb28f168.js",
     "static/media/banner-ipad.png": "./static/media/banner-ipad.9a219f65736b00d9d36d.png",
     "static/media/banner-iphone-15.png": "./static/media/banner-iphone-15.75a05c8456e90099c278.png",
@@ -10,11 +10,11 @@
     "static/media/banner-mobile-new-iphone.jpeg": "./static/media/banner-mobile-new-iphone.f9fb3ef85566189e7beb.jpeg",
     "static/media/arrow-down-disabled.svg": "./static/media/arrow-down-disabled.98c9dd6d98b47f2f1977.svg",
     "index.html": "./index.html",
-    "main.ed364c6a.css.map": "./static/css/main.ed364c6a.css.map",
+    "main.47aaf01d.css.map": "./static/css/main.47aaf01d.css.map",
     "main.bb28f168.js.map": "./static/js/main.bb28f168.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed364c6a.css",
+    "static/css/main.47aaf01d.css",
     "static/js/main.bb28f168.js"
   ]
 }
