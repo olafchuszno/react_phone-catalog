@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.d783063d.css",
-    "main.js": "./static/js/main.89a3f952.js",
+    "main.css": "./static/css/main.8cc0e5ab.css",
+    "main.js": "./static/js/main.8f4f0518.js",
     "static/media/banner-ipad.png": "./static/media/banner-ipad.9a219f65736b00d9d36d.png",
     "static/media/banner-iphone-15.png": "./static/media/banner-iphone-15.75a05c8456e90099c278.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
     "static/media/banner-mobile-new-iphone.jpeg": "./static/media/banner-mobile-new-iphone.f9fb3ef85566189e7beb.jpeg",
-    "static/media/heart-black.svg": "./static/media/heart-black.5c003ee4a0e79f74efbe.svg",
     "static/media/arrow-down-disabled.svg": "./static/media/arrow-down-disabled.98c9dd6d98b47f2f1977.svg",
     "index.html": "./index.html",
-    "static/media/heart-red.svg": "./static/media/heart-red.31d6cfe0d16ae931b73c.svg",
-    "main.d783063d.css.map": "./static/css/main.d783063d.css.map",
-    "main.89a3f952.js.map": "./static/js/main.89a3f952.js.map"
+    "main.8cc0e5ab.css.map": "./static/css/main.8cc0e5ab.css.map",
+    "main.8f4f0518.js.map": "./static/js/main.8f4f0518.js.map"
   },
   "entrypoints": [
-    "static/css/main.d783063d.css",
-    "static/js/main.89a3f952.js"
+    "static/css/main.8cc0e5ab.css",
+    "static/js/main.8f4f0518.js"
   ]
 }
