@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.9a7ac6d9.css",
-    "main.js": "./static/js/main.2542f322.js",
-    "static/media/banner-accessories.png": "./static/media/banner-accessories.e64efb5cdb85717c83f2.png",
-    "static/media/banner-ipad.png": "./static/media/banner-ipad.9a219f65736b00d9d36d.png",
-    "static/media/banner-iphone-15.png": "./static/media/banner-iphone-15.75a05c8456e90099c278.png",
+    "main.css": "./static/css/main.818c8aeb.css",
+    "main.js": "./static/js/main.c33a55a8.js",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/arrow-left.svg": "./static/media/arrow-left.41d7898a3fff4162c5bc.svg",
+    "static/media/arrow-right-16.svg": "./static/media/arrow-right-16.70f42d77d4895623e71b.svg",
     "static/media/arrow-down-disabled.svg": "./static/media/arrow-down-disabled.98c9dd6d98b47f2f1977.svg",
     "index.html": "./index.html",
-    "main.9a7ac6d9.css.map": "./static/css/main.9a7ac6d9.css.map",
-    "main.2542f322.js.map": "./static/js/main.2542f322.js.map"
+    "main.818c8aeb.css.map": "./static/css/main.818c8aeb.css.map",
+    "main.c33a55a8.js.map": "./static/js/main.c33a55a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a7ac6d9.css",
-    "static/js/main.2542f322.js"
+    "static/css/main.818c8aeb.css",
+    "static/js/main.c33a55a8.js"
   ]
 }
